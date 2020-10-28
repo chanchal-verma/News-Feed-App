@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#133b5c</color>
+    <color name="colorPrimaryDark">#1D2D50</color>
+    <color name="colorAccent">#1e5f74</color>
+
+    <color name="smallText">#707070</color>
+    <color name="Headline">#1c2b2d</color>
+    <color name="newsType">#0d7377</color>
+</resources>
